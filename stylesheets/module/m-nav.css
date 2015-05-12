@@ -1,0 +1,25 @@
+/* line 1, ../../sass/module/m-nav.scss */
+.m-nav {
+  color: #fff;
+  padding-top: 30px;
+}
+/* line 5, ../../sass/module/m-nav.scss */
+.m-nav ul li {
+  font-size: 16px;
+  line-height: 21px;
+  padding: 11.5px 15px;
+  text-align: center;
+}
+/* line 10, ../../sass/module/m-nav.scss */
+.m-nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+/* line 13, ../../sass/module/m-nav.scss */
+.m-nav ul li a i {
+  margin-right: 3px;
+}
+/* line 19, ../../sass/module/m-nav.scss */
+.m-nav ul li.on a {
+  border-bottom: 3px solid #fff;
+}

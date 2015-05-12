@@ -1,0 +1,16 @@
+.m-permalink{
+	padding:30px 15px; 
+	a{
+		color: #212121;
+		text-decoration: none;
+		display: inline-block;
+		border-bottom: 1px solid #8B7D56;
+		padding:11.5px 15px;
+		&:first-child{
+			
+		}
+		.icon{
+			margin-right: 3px;
+		}
+	}
+}

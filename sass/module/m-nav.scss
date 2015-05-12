@@ -1,0 +1,25 @@
+.m-nav{
+	color: #fff;
+	padding-top:30px;
+	ul{
+		li{
+			font-size: 16px;
+			line-height: 14px*1.5;
+			padding:11.5px 15px;
+			text-align: center;
+			a{
+				color: #fff;
+				text-decoration: none;
+				i{
+					margin-right: 3px;
+
+				}
+			}
+			&.on{
+				a{
+					border-bottom: 3px solid #CAE6BD;
+				}
+			}
+		}
+	}
+}

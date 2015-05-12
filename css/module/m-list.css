@@ -1,0 +1,16 @@
+/* line 1, ../../sass/module/m-list.scss */
+.m-list {
+  width: 640px;
+  margin: 0 auto;
+}
+/* line 5, ../../sass/module/m-list.scss */
+.m-list ul li {
+  line-height: 22px;
+  border-bottom: 1px solid #ccc;
+  padding: 8px 0;
+}
+/* line 9, ../../sass/module/m-list.scss */
+.m-list ul li .entry-date {
+  float: right;
+  color: #a68c7f;
+}

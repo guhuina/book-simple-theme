@@ -1,0 +1,16 @@
+/* line 1, ../../sass/module/m-permalink.scss */
+.m-permalink {
+  padding: 30px 15px;
+}
+/* line 3, ../../sass/module/m-permalink.scss */
+.m-permalink a {
+  color: #212121;
+  text-decoration: none;
+  display: inline-block;
+  border-bottom: 1px solid #8B7D56;
+  padding: 11.5px 15px;
+}
+/* line 12, ../../sass/module/m-permalink.scss */
+.m-permalink a .icon {
+  margin-right: 3px;
+}

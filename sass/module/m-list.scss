@@ -1,0 +1,15 @@
+.m-list{
+	width: 640px;
+	margin: 0 auto;
+	ul{
+		li{
+			line-height: 22px;
+			border-bottom: 1px solid #ccc;
+			padding: 8px 0;
+			.entry-date{
+				float: right;
+				color: #a68c7f;
+			}
+		}
+	}
+}

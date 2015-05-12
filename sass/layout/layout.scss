@@ -1,0 +1,35 @@
+html,body{
+	height: 100%;
+	overflow: hidden;
+}
+.l-container{
+	width: 100%;
+	height: 100%;
+	background: #E37469;
+}
+.l-header{
+	
+}
+.l-nav{
+	background: #FFA690;
+	width: 300px;
+	height:100%;
+	position:absolute;
+	bottom: 0;
+	left:0;
+	top:0;
+	padding:1px;
+}
+.l-content{
+	position: relative;
+	margin-left: 300px;
+	padding-top:1px;
+}
+.l-footer{
+
+}
+.l-block{
+	background:#fff;
+	margin: 30px 50px;
+	min-height:300px;
+}
